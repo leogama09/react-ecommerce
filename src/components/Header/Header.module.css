@@ -10,12 +10,12 @@
     gap: 1rem;
 }
 
-.logo>img {
+.logo > img {
     width: 2.5rem;
     height: 2.5rem;
 }
 
-.logo>span {
+.logo > span {
     font-weight: 600;
 }
 
@@ -33,7 +33,7 @@
     list-style: none;
 }
 
-.menu>li:hover {
+.menu > li:hover {
     color: #fe956f;
     cursor: pointer;
 }
